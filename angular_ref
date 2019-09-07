@@ -1,0 +1,26 @@
+Adding Ngx Bootstrap for app:
+-----------------------------
+
+npm install ngx-bootstrap --save
+
+
+You will need bootstrap styles (Bootstrap 3)
+
+<!-- index.html -->
+
+
+<link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+https://valor-software.com/ngx-bootstrap/#/documentation#getting-started
+
+
+Json Server for angular Like Backend:
+-------------------------------------
+
+https://www.npmjs.com/package/json-server
+
+
+npm install -g json-server
+
+
+https://www.npmjs.com/package/json-server
